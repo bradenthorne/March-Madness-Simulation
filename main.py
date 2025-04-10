@@ -16,9 +16,6 @@ model.load_stats(stats)
 
 initial_matchups = pd.read_csv('Transformed Data/Corrected 2025 Matchups.csv')
 
-# print(model.predict(initial_matchups, 'winner'))
-
-'''
 def simulate_tournament():
     local_results = defaultdict(Counter)
     current_round = initial_matchups.copy()
@@ -74,5 +71,4 @@ if __name__ == '__main__':
     with open('game_slot_probabilities.json', 'w') as f:
         json.dump(game_probabilities, f, indent=2)
 
-    print("Simulation complete. Results saved to 'game_slot_probabilities.json'")'
-'''
+    print("Simulation complete. Results saved to 'game_slot_probabilities.json'")
