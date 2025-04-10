@@ -1,0 +1,470 @@
+{
+  "Game 1": {
+    "Auburn": 98.39,
+    "Alabama St.": 1.61
+  },
+  "Game 2": {
+    "Creighton": 29.12,
+    "Louisville": 70.88
+  },
+  "Game 3": {
+    "UC San Diego": 63.75,
+    "Michigan": 36.25
+  },
+  "Game 4": {
+    "Texas A&M": 91.33,
+    "Yale": 8.67
+  },
+  "Game 5": {
+    "North Carolina": 66.35,
+    "Mississippi": 33.65
+  },
+  "Game 6": {
+    "Iowa St.": 66.75,
+    "Lipscomb": 33.25
+  },
+  "Game 7": {
+    "New Mexico": 41.17,
+    "Marquette": 58.83
+  },
+  "Game 8": {
+    "Michigan St.": 82.02,
+    "Bryant": 17.98
+  },
+  "Game 9": {
+    "Florida": 95.83,
+    "Norfolk St.": 4.17
+  },
+  "Game 10": {
+    "Connecticut": 46.53,
+    "Oklahoma": 53.47
+  },
+  "Game 11": {
+    "Colorado St.": 67.8,
+    "Memphis": 32.2
+  },
+  "Game 12": {
+    "Maryland": 73.86,
+    "Grand Canyon": 26.14
+  },
+  "Game 13": {
+    "Drake": 73.34,
+    "Missouri": 26.66
+  },
+  "Game 14": {
+    "Texas Tech": 77.29,
+    "UNC Wilmington": 22.71
+  },
+  "Game 15": {
+    "Kansas": 73.17,
+    "Arkansas": 26.83
+  },
+  "Game 16": {
+    "St. John's": 78.43,
+    "Nebraska Omaha": 21.57
+  },
+  "Game 17": {
+    "Duke": 96.84,
+    "American": 3.16
+  },
+  "Game 18": {
+    "Baylor": 65.63,
+    "Mississippi St.": 34.37
+  },
+  "Game 19": {
+    "Liberty": 85.36,
+    "Oregon": 14.64
+  },
+  "Game 20": {
+    "Arizona": 52.11,
+    "Akron": 47.89
+  },
+  "Game 21": {
+    "BYU": 34.98,
+    "VCU": 65.02
+  },
+  "Game 22": {
+    "Wisconsin": 85.87,
+    "Montana": 14.13
+  },
+  "Game 23": {
+    "Saint Mary's": 85.15,
+    "Vanderbilt": 14.85
+  },
+  "Game 24": {
+    "Robert Morris": 24.05,
+    "Alabama": 75.95
+  },
+  "Game 25": {
+    "Houston": 99.46,
+    "SIU Edwardsville": 0.54
+  },
+  "Game 26": {
+    "Gonzaga": 77.63,
+    "Georgia": 22.37
+  },
+  "Game 27": {
+    "Clemson": 85.7,
+    "McNeese St.": 14.3
+  },
+  "Game 28": {
+    "Purdue": 66.4,
+    "High Point": 33.6
+  },
+  "Game 29": {
+    "Xavier": 62.03,
+    "Illinois": 37.97
+  },
+  "Game 30": {
+    "Kentucky": 64.86,
+    "Troy": 35.14
+  },
+  "Game 31": {
+    "Utah St.": 55.1,
+    "UCLA": 44.9
+  },
+  "Game 32": {
+    "Tennessee": 84.82,
+    "Wofford": 15.18
+  },
+  "Game 33": {
+    "Creighton": 8.67,
+    "Auburn": 52.32,
+    "Louisville": 38.96,
+    "Alabama St.": 0.05
+  },
+  "Game 34": {
+    "Texas A&M": 18.85,
+    "Michigan": 27.47,
+    "UC San Diego": 53.47,
+    "Yale": 0.21
+  },
+  "Game 35": {
+    "North Carolina": 44.16,
+    "Iowa St.": 29.48,
+    "Mississippi": 16.52,
+    "Lipscomb": 9.84
+  },
+  "Game 36": {
+    "New Mexico": 18.82,
+    "Michigan St.": 45.72,
+    "Marquette": 31.19,
+    "Bryant": 4.27
+  },
+  "Game 37": {
+    "Florida": 83.62,
+    "Connecticut": 6.83,
+    "Oklahoma": 8.56,
+    "Norfolk St.": 0.99
+  },
+  "Game 38": {
+    "Maryland": 24.79,
+    "Memphis": 19.72,
+    "Grand Canyon": 3.63,
+    "Colorado St.": 51.86
+  },
+  "Game 39": {
+    "Drake": 42.66,
+    "Texas Tech": 41.86,
+    "Missouri": 9.31,
+    "UNC Wilmington": 6.17
+  },
+  "Game 40": {
+    "St. John's": 64.01,
+    "Kansas": 20.24,
+    "Nebraska Omaha": 12.11,
+    "Arkansas": 3.64
+  },
+  "Game 41": {
+    "Duke": 87.41,
+    "Baylor": 9.06,
+    "Mississippi St.": 2.83,
+    "American": 0.7
+  },
+  "Game 42": {
+    "Liberty": 58.09,
+    "Akron": 17.73,
+    "Arizona": 20.31,
+    "Oregon": 3.87
+  },
+  "Game 43": {
+    "Wisconsin": 48.63,
+    "BYU": 13.6,
+    "VCU": 35.0,
+    "Montana": 2.77
+  },
+  "Game 44": {
+    "Saint Mary's": 54.63,
+    "Alabama": 35.85,
+    "Robert Morris": 5.94,
+    "Vanderbilt": 3.58
+  },
+  "Game 45": {
+    "Houston": 91.51,
+    "Gonzaga": 7.78,
+    "Georgia": 0.69,
+    "SIU Edwardsville": 0.02
+  },
+  "Game 46": {
+    "Clemson": 58.63,
+    "High Point": 9.48,
+    "Purdue": 27.57,
+    "McNeese St.": 4.32
+  },
+  "Game 47": {
+    "Kentucky": 41.78,
+    "Xavier": 28.45,
+    "Illinois": 12.97,
+    "Troy": 16.8
+  },
+  "Game 48": {
+    "Utah St.": 21.99,
+    "Tennessee": 57.25,
+    "UCLA": 16.31,
+    "Wofford": 4.45
+  },
+  "Game 49": {
+    "Creighton": 4.86,
+    "Auburn": 37.92,
+    "Louisville": 28.96,
+    "Michigan": 6.89,
+    "UC San Diego": 19.18,
+    "Texas A&M": 2.19
+  },
+  "Game 50": {
+    "North Carolina": 27.4,
+    "Iowa St.": 15.8,
+    "Michigan St.": 22.62,
+    "Marquette": 14.78,
+    "Lipscomb": 3.74,
+    "New Mexico": 7.32,
+    "Mississippi": 7.47,
+    "Bryant": 0.87
+  },
+  "Game 51": {
+    "Florida": 61.49,
+    "Connecticut": 1.98,
+    "Colorado St.": 21.85,
+    "Memphis": 5.31,
+    "Maryland": 6.02,
+    "Oklahoma": 2.81,
+    "Norfolk St.": 0.12,
+    "Grand Canyon": 0.42
+  },
+  "Game 52": {
+    "St. John's": 30.72,
+    "Texas Tech": 26.98,
+    "Drake": 28.6,
+    "Missouri": 4.07,
+    "UNC Wilmington": 2.05,
+    "Nebraska Omaha": 2.82,
+    "Kansas": 4.32,
+    "Arkansas": 0.44
+  },
+  "Game 53": {
+    "Duke": 74.09,
+    "Akron": 2.45,
+    "Liberty": 14.97,
+    "Baylor": 3.81,
+    "Mississippi St.": 0.83,
+    "Arizona": 3.47,
+    "American": 0.12,
+    "Oregon": 0.26
+  },
+  "Game 54": {
+    "Saint Mary's": 22.28,
+    "Wisconsin": 33.56,
+    "Alabama": 11.45,
+    "VCU": 23.62,
+    "Robert Morris": 0.63,
+    "BYU": 7.52,
+    "Vanderbilt": 0.24,
+    "Montana": 0.7
+  },
+  "Game 55": {
+    "Houston": 75.16,
+    "High Point": 1.08,
+    "Clemson": 15.8,
+    "Gonzaga": 2.58,
+    "McNeese St.": 0.33,
+    "Purdue": 4.99,
+    "Georgia": 0.06
+  },
+  "Game 56": {
+    "Kentucky": 15.43,
+    "Tennessee": 44.19,
+    "UCLA": 9.61,
+    "Xavier": 7.8,
+    "Illinois": 2.72,
+    "Utah St.": 14.12,
+    "Troy": 4.19,
+    "Wofford": 1.94
+  },
+  "Game 57": {
+    "North Carolina": 9.88,
+    "Auburn": 28.88,
+    "Louisville": 22.67,
+    "Iowa St.": 4.28,
+    "Marquette": 4.04,
+    "Michigan St.": 7.2,
+    "UC San Diego": 12.07,
+    "New Mexico": 1.4,
+    "Creighton": 2.92,
+    "Texas A&M": 0.58,
+    "Michigan": 3.61,
+    "Mississippi": 1.66,
+    "Bryant": 0.06,
+    "Lipscomb": 0.75
+  },
+  "Game 58": {
+    "Florida": 38.51,
+    "Drake": 15.53,
+    "Connecticut": 0.35,
+    "Texas Tech": 13.38,
+    "Colorado St.": 10.17,
+    "St. John's": 14.6,
+    "Nebraska Omaha": 0.62,
+    "Missouri": 1.2,
+    "Kansas": 1.05,
+    "UNC Wilmington": 0.56,
+    "Memphis": 1.88,
+    "Oklahoma": 0.57,
+    "Maryland": 1.52,
+    "Grand Canyon": 0.04,
+    "Arkansas": 0.02
+  },
+  "Game 59": {
+    "Duke": 58.38,
+    "Wisconsin": 12.19,
+    "Liberty": 7.07,
+    "Alabama": 2.68,
+    "VCU": 8.37,
+    "Saint Mary's": 6.13,
+    "BYU": 1.9,
+    "Arizona": 0.96,
+    "Akron": 0.67,
+    "Baylor": 1.35,
+    "Mississippi St.": 0.16,
+    "Montana": 0.07,
+    "American": 0.03,
+    "Robert Morris": 0.02,
+    "Oregon": 0.01,
+    "Vanderbilt": 0.01
+  },
+  "Game 60": {
+    "Houston": 70.21,
+    "UCLA": 0.77,
+    "High Point": 0.68,
+    "Clemson": 12.7,
+    "Kentucky": 1.24,
+    "Utah St.": 1.16,
+    "Tennessee": 7.23,
+    "Gonzaga": 1.59,
+    "Purdue": 3.58,
+    "Xavier": 0.45,
+    "Wofford": 0.06,
+    "Troy": 0.18,
+    "Illinois": 0.06,
+    "McNeese St.": 0.09
+  },
+  "Game 61": {
+    "North Carolina": 2.89,
+    "Florida": 26.89,
+    "Louisville": 11.31,
+    "Drake": 9.91,
+    "Connecticut": 0.05,
+    "Auburn": 13.72,
+    "Texas Tech": 8.59,
+    "Colorado St.": 5.65,
+    "Marquette": 0.74,
+    "Nebraska Omaha": 0.16,
+    "Missouri": 0.38,
+    "St. John's": 8.82,
+    "UC San Diego": 3.99,
+    "UNC Wilmington": 0.2,
+    "Michigan St.": 1.69,
+    "Iowa St.": 0.95,
+    "Texas A&M": 0.09,
+    "Creighton": 0.87,
+    "Michigan": 0.89,
+    "Oklahoma": 0.13,
+    "Maryland": 0.48,
+    "Kansas": 0.3,
+    "New Mexico": 0.24,
+    "Memphis": 0.68,
+    "Mississippi": 0.3,
+    "Lipscomb": 0.07,
+    "Bryant": 0.01
+  },
+  "Game 62": {
+    "Houston": 51.02,
+    "Duke": 28.32,
+    "Utah St.": 0.22,
+    "Wisconsin": 3.5,
+    "Clemson": 6.11,
+    "Gonzaga": 0.47,
+    "Liberty": 1.79,
+    "Alabama": 0.48,
+    "Tennessee": 1.85,
+    "VCU": 2.37,
+    "Purdue": 1.22,
+    "High Point": 0.12,
+    "Saint Mary's": 1.37,
+    "BYU": 0.43,
+    "UCLA": 0.12,
+    "Akron": 0.11,
+    "Arizona": 0.12,
+    "Kentucky": 0.1,
+    "Xavier": 0.05,
+    "Baylor": 0.2,
+    "McNeese St.": 0.01,
+    "Mississippi St.": 0.01,
+    "Montana": 0.01
+  },
+  "Game 63": {
+    "Houston": 42.94,
+    "Duke": 21.92,
+    "Auburn": 2.89,
+    "Florida": 8.52,
+    "Colorado St.": 1.28,
+    "Louisville": 2.96,
+    "North Carolina": 0.42,
+    "Wisconsin": 1.85,
+    "Clemson": 4.03,
+    "Drake": 2.59,
+    "St. John's": 2.07,
+    "Texas Tech": 2.16,
+    "Liberty": 0.85,
+    "Alabama": 0.18,
+    "Tennessee": 0.8,
+    "Iowa St.": 0.08,
+    "Purdue": 0.66,
+    "VCU": 1.23,
+    "Saint Mary's": 0.64,
+    "Utah St.": 0.04,
+    "Michigan St.": 0.17,
+    "UC San Diego": 0.63,
+    "UCLA": 0.03,
+    "Nebraska Omaha": 0.01,
+    "Creighton": 0.09,
+    "BYU": 0.15,
+    "Gonzaga": 0.17,
+    "Michigan": 0.09,
+    "Kansas": 0.04,
+    "Arizona": 0.06,
+    "Xavier": 0.02,
+    "Memphis": 0.08,
+    "Mississippi": 0.02,
+    "UNC Wilmington": 0.04,
+    "Baylor": 0.05,
+    "Marquette": 0.05,
+    "Kentucky": 0.02,
+    "Missouri": 0.06,
+    "High Point": 0.01,
+    "Maryland": 0.03,
+    "New Mexico": 0.03,
+    "Lipscomb": 0.01,
+    "Akron": 0.02,
+    "Oklahoma": 0.01
+  }
+}
